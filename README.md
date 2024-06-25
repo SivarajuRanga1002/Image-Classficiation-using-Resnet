@@ -42,7 +42,7 @@ The `object_detector.py` script utilizes OpenCV and ROS to detect objects within
    ### Instructions for Use:
    1. Copy the markdown text above.
    2. Open your GitHub repository.
-   3. Navigate to the `README.md` file or create one if it doesn't exist.
+   3. Navigate to the `README.md` file or create one if it does not exist.
    4. Edit the file and paste the copied markdown content.
    5. Replace placeholder links and names like `https://github.com/yourusername/your-repository-name.git` and `your_package` with actual data relevant to your project.
    6. Commit the changes to update the README.
