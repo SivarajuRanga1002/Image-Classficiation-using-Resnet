@@ -25,3 +25,26 @@ The `object_detector.py` script utilizes OpenCV and ROS to detect objects within
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/yourusername/your-repository-name.git
+
+2. ** Build and Run in ROS Workspace**: 
+   Navigate to your catkin workspace and build the project:
+   ```bash
+   cd ~/catkin_ws
+   catkin_make
+   source devel/setup.bash
+3. Launch the Object Detector:
+   ```bash
+   roslaunch your_package object_detector.launch
+
+4. Contributions and Development
+   Contributions are welcome! Please submit pull requests or raise issues for bugs or suggested improvements.
+   ```bash
+   ### Instructions for Use:
+   1. Copy the markdown text above.
+   2. Open your GitHub repository.
+   3. Navigate to the `README.md` file or create one if it doesn't exist.
+   4. Edit the file and paste the copied markdown content.
+   5. Replace placeholder links and names like `https://github.com/yourusername/your-repository-name.git` and `your_package` with actual data relevant to your project.
+   6. Commit the changes to update the README.
+   
+   This README will provide a structured and informative overview of your object detection module, making it accessible for others to understand its purpose, setup, and usage.
